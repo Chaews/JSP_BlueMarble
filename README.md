@@ -1,3 +1,5 @@
+시연 영상 (Youtube 링크) https://youtu.be/JAPtBsYc8is
+
 # 1. 프로젝트명
 
 ### JSP 부루마블 ( 마블해윰 )
@@ -28,3 +30,4 @@ Amchart 5
 <img src="https://user-images.githubusercontent.com/100547884/174242239-bc5d71fc-a473-40f1-ad39-4476f70696e0.png" width="500px">
 
 # 6. 시연 영상 (Youtube 링크)
+https://youtu.be/JAPtBsYc8is
